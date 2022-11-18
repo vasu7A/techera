@@ -1,0 +1,9 @@
+.eachCourse {
+  list-style-type: none;
+  padding: 20px;
+  padding-right: 50px;
+}
+.icons {
+  display: flex;
+  flex-wrap: wrap;
+}

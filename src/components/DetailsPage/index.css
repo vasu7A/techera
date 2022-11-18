@@ -1,0 +1,10 @@
+.detailspage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.detailsInner {
+  display: flex;
+  flex-direction: row;
+}
